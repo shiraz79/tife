@@ -8,7 +8,7 @@ import org.tife.core.entity.Employee;
 /**
  * @author a.memon
  *
- * @version 1.0-SNAPSHOT
+ * @version 1.0.1-SNAPSHOT
  */
 public interface EmployeeManager {
 	public void addEmployee(Employee e);
