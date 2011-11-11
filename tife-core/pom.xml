@@ -6,11 +6,9 @@
 	<parent>
 		<artifactId>tife</artifactId>
 		<groupId>org.tife</groupId>
-		<version>1.0-SNAPSHOT</version>
+		<version>1.0.0-SNAPSHOT</version>
 	</parent>
-	<groupId>org.tife.core</groupId>
 	<artifactId>tife-core</artifactId>
-	<version>1.0-SNAPSHOT</version>
 	<name>tife-core</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
